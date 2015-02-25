@@ -1,7 +1,6 @@
 import time
 #import thesis_1
 
-
 times=[]
 for x in range(0,1):
     start = time.time()
